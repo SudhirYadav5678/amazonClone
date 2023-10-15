@@ -1,2 +1,2 @@
 # amazonClone
-This is an amazon clone made 
+This is an amazon clone made by Sudhir Yadav.
